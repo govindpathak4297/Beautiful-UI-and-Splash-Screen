@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="signed_in_state">Already Signed In</string>
+</resources>
